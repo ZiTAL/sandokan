@@ -1,5 +1,6 @@
 # sandokan
-sandokan: php youtube-dl web frontend
+sandokan: php youtube-dl / mp3  web frontend
+Eneritz legoieri dediketa
 
 # CRON: update youtube-dl every day, edit the pip bin path
 
